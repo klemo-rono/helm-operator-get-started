@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: rklemo/podinfo
-      tag: dev-cwbnitjv
+      tag: dev-utwsp1r2
     replicaCount: 1
     hpa:
       enabled: false
